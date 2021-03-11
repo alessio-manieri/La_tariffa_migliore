@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlParcheggio", "IlParcheggio\IlParcheggio.csproj", "{38952FDF-CCE5-4655-A824-E6D1FDB7A0B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operazioni", "Operazioni\Operazioni.csproj", "{B0D05C77-E21E-4E5E-8DED-BAF9F4379448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38952FDF-CCE5-4655-A824-E6D1FDB7A0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38952FDF-CCE5-4655-A824-E6D1FDB7A0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38952FDF-CCE5-4655-A824-E6D1FDB7A0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38952FDF-CCE5-4655-A824-E6D1FDB7A0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D05C77-E21E-4E5E-8DED-BAF9F4379448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D05C77-E21E-4E5E-8DED-BAF9F4379448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D05C77-E21E-4E5E-8DED-BAF9F4379448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D05C77-E21E-4E5E-8DED-BAF9F4379448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB98A40-FB44-4574-8DAD-2EAC91CF44A0}
+	EndGlobalSection
+EndGlobal
